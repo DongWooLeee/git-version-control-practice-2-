@@ -1,0 +1,3 @@
+TODO LIST
+- BigCon EDA FIN until FRI
+- preprocessing log data
